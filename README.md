@@ -1,5 +1,3 @@
-# Facebook-App
-
 # Description:
 SocialApp is a social networking app which makes it easy to build a own social networking app in just a few minutes. It comes with lots of features which includes but not limited to photo sharing, video sharing, status update, followers and friends system, organized notification system, block system, material design and animations. It has lots of more features which are written below. It runs through a web server which is based on PHP and connected with MySQL database. It also supports instant messaging and emoticons. You can share post with your friends, followers or via personal message. The code is flexible and easy to modify (with full documentation available with the product). It is developed in android studio, but can also be easily setup in other IDEs.
 Features:
